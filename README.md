@@ -19,3 +19,5 @@ Results:
 * [akka](https://github.com/IgorPerikov/web-frameworks-load-comparison/blob/master/akka/README.md)
 * [play](https://github.com/IgorPerikov/web-frameworks-load-comparison/blob/master/play/README.md)
 * [xitrum](https://github.com/IgorPerikov/web-frameworks-load-comparison/blob/master/xitrum/README.md)
+
+(http://i.imgur.com/vRfIEy6.png)
