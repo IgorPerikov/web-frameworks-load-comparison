@@ -20,4 +20,5 @@ Results:
 * [play](https://github.com/IgorPerikov/web-frameworks-load-comparison/blob/master/play/README.md)
 * [xitrum](https://github.com/IgorPerikov/web-frameworks-load-comparison/blob/master/xitrum/README.md)
 
+visualization of top-3 frameworks rps
 ![Alt text](http://i.imgur.com/vRfIEy6.png)
